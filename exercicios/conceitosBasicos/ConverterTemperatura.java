@@ -73,6 +73,8 @@ public class ConverterTemperatura {
 		resultado = op == 6 ? graus - 273.15 : resultado;
 		
 		System.out.println("Resultado: " + resultado);
+
+		leia.close();
 		
 //		System.out.println("\n+---------------------+");
 //		System.out.println("| Graus em " + op);
