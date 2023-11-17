@@ -1,3 +1,5 @@
+// RESPOSTA DO 1 E 2
+
 /* Escalas Utilizadas
  * 
  * Celsius (°C)
